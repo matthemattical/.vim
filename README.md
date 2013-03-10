@@ -1,4 +1,4 @@
 .vim
 ====
 
-My personal .vim folder with .vimrc (needs to be symlinked). Criticisms and suggestions 
+My personal .vim folder with .vimrc (needs to be symlinked). Criticisms and suggestions highly encouraged.
