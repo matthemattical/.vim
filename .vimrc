@@ -81,10 +81,10 @@ inoremap <Right> <nop>
 inoremap <Down> <nop>
 inoremap <Left> <nop>
 
-noremap <F2> :TlistToggle<CR>
-noremap <F3> :NERDTreeToggle<CR>
+noremap <C-F2> :TlistToggle<CR>
+noremap <C-F3> :NERDTreeToggle<CR>
 
-noremap <F4> :call Matt_phphtmlformat()<CR>
+noremap <C-F4> :call Matt_phphtmlformat()<CR>
 
 " insert mode uppercase-ify words
 inoremap <c-u> <esc>viwU<esc>ea
